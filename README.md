@@ -1,5 +1,5 @@
 # shivani_londhe
-As a freelancer I did project to one of my client. This is her personal portfolio. It was created on July 2021. In this project I have used HTML CSS ES6 (Modern Javascript).
+As a freelancer I did this project to one of my client. This is her personal portfolio. It was created on July 2021. In this project I have used HTML CSS ES6 (Modern Javascript).
 - 
 - 👋 Hi, I’m Anshul Agrawal with username @anshul1504 
 - 👀 I’m interested in web developement and freelancing 
